@@ -1,30 +1,28 @@
-# woozlabs-blog
+# WOOZ Blog v0.1
 
-## Project setup
+## Overview
 
-```
-yarn install
-```
+This is the WOOZ Blog hosted at https://blog.woozlabs.com. For other versions, check the branches.
+We welcome suggestion both the code and the API design.
+Articles will be updated once or twice a week.
 
-### Compiles and hot-reloads for development
+## Related Projects
 
-```
-yarn serve
-```
+- [WoozLabs] - Homepage of WoozLabs. (It is just portfolio website for now)
+- [WoozBlog] - Archive for everything that I learn. Study with me!
+- [WoozAPI] - API for all Wooz Projects.
+- [WoozPlay] (✨ Refactoring on process) - WoozPlay makes interactive contents. (Mobile Games, Web etc)
+- [WoozTrading] (✨ Refactoring on process) - Crypto trading website powered by Wooz AI & Binance
 
-### Compiles and minifies for production
+## Tech
 
-```
-yarn build
-```
+(✨ Refactoring on process)
 
-### Lints and fixes files
+> For more infos contact [kim.kw8012@gmail.com]
 
-```
-yarn lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# woozlabs-blog
+[kim.kw8012@gmail.com]: mailto:kim.kw8012@gmail.com
+[woozlabs]: https://woozlabs.com
+[woozblog]: https://blog.woozlabs.com
+[woozapi]: https://api.woozlabs.com
+[woozplay]: https://play.woozlabs.com
+[wooztrading]: https://trading.woozlabs.com
